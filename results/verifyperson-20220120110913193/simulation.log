@@ -1,0 +1,4 @@
+RUN	person.verifyPerson	verifyperson	1642676953193	 	3.6.1
+USER	Verify Password	START	1642676954586
+REQUEST		Validate Person	1642676954613	1642676954800	KO	status.find.is(400), but actually found 200
+USER	Verify Password	END	1642676954834

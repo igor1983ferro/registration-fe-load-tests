@@ -1,0 +1,4 @@
+RUN	enterprise.verifyEnterprise	verifyenterprise	1642774184058	 	3.6.1
+USER	Verify Enterprise	START	1642774185475
+REQUEST		Validate Enterprise	1642774185503	1642774188527	KO	status.find.is(400), but actually found 200
+USER	Verify Enterprise	END	1642774188571

@@ -1,0 +1,31 @@
+RUN	document.VerifyRegistrationLimit	verifyregistrationlimit	1643808333517	 	3.6.1
+USER	Verify Registration Limit	START	1643808334842
+USER	Verify Registration Limit	START	1643808334932
+USER	Verify Registration Limit	START	1643808335033
+USER	Verify Registration Limit	START	1643808335133
+USER	Verify Registration Limit	START	1643808335234
+USER	Verify Registration Limit	START	1643808335334
+USER	Verify Registration Limit	START	1643808335435
+USER	Verify Registration Limit	START	1643808335535
+USER	Verify Registration Limit	START	1643808335637
+USER	Verify Registration Limit	START	1643808335737
+REQUEST		Verify Registration Limit	1643808334933	1643808336301	OK	 
+REQUEST		Verify Registration Limit	1643808334873	1643808336337	OK	 
+USER	Verify Registration Limit	END	1643808336339
+USER	Verify Registration Limit	END	1643808336339
+REQUEST		Verify Registration Limit	1643808335034	1643808336442	OK	 
+USER	Verify Registration Limit	END	1643808336447
+REQUEST		Verify Registration Limit	1643808335134	1643808336535	OK	 
+USER	Verify Registration Limit	END	1643808336539
+REQUEST		Verify Registration Limit	1643808335234	1643808336640	OK	 
+USER	Verify Registration Limit	END	1643808336644
+REQUEST		Verify Registration Limit	1643808335335	1643808336742	OK	 
+USER	Verify Registration Limit	END	1643808336747
+REQUEST		Verify Registration Limit	1643808335435	1643808336840	OK	 
+USER	Verify Registration Limit	END	1643808336841
+REQUEST		Verify Registration Limit	1643808335738	1643808337134	OK	 
+USER	Verify Registration Limit	END	1643808337140
+REQUEST		Verify Registration Limit	1643808335639	1643808337139	OK	 
+USER	Verify Registration Limit	END	1643808337144
+REQUEST		Verify Registration Limit	1643808335536	1643808337144	OK	 
+USER	Verify Registration Limit	END	1643808337148

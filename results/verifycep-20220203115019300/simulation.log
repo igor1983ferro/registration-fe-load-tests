@@ -1,0 +1,121 @@
+RUN	cep.verifyCep	verifycep	1643889019300	 	3.6.1
+ERROR	Verify Cep: Failed to build request: No attribute named 'cep' is defined 	1643889020700
+USER	Verify Cep	END	1643889020706
+USER	Verify Cep	START	1643889020690
+ERROR	Verify Cep: Failed to build request: No attribute named 'cep' is defined 	1643889020730
+USER	Verify Cep	START	1643889020730
+USER	Verify Cep	END	1643889020732
+ERROR	Verify Cep: Failed to build request: No attribute named 'cep' is defined 	1643889020781
+USER	Verify Cep	END	1643889020782
+USER	Verify Cep	START	1643889020781
+ERROR	Verify Cep: Failed to build request: No attribute named 'cep' is defined 	1643889020831
+USER	Verify Cep	START	1643889020831
+USER	Verify Cep	END	1643889020832
+ERROR	Verify Cep: Failed to build request: No attribute named 'cep' is defined 	1643889020882
+USER	Verify Cep	START	1643889020882
+USER	Verify Cep	END	1643889020883
+ERROR	Verify Cep: Failed to build request: No attribute named 'cep' is defined 	1643889020932
+USER	Verify Cep	END	1643889020933
+USER	Verify Cep	START	1643889020932
+ERROR	Verify Cep: Failed to build request: No attribute named 'cep' is defined 	1643889020983
+USER	Verify Cep	END	1643889020986
+USER	Verify Cep	START	1643889020983
+ERROR	Verify Cep: Failed to build request: No attribute named 'cep' is defined 	1643889021033
+USER	Verify Cep	START	1643889021033
+USER	Verify Cep	END	1643889021034
+ERROR	Verify Cep: Failed to build request: No attribute named 'cep' is defined 	1643889021083
+USER	Verify Cep	START	1643889021083
+USER	Verify Cep	END	1643889021084
+ERROR	Verify Cep: Failed to build request: No attribute named 'cep' is defined 	1643889021133
+USER	Verify Cep	START	1643889021133
+USER	Verify Cep	END	1643889021134
+ERROR	Verify Cep: Failed to build request: No attribute named 'cep' is defined 	1643889021184
+USER	Verify Cep	START	1643889021184
+USER	Verify Cep	END	1643889021187
+ERROR	Verify Cep: Failed to build request: No attribute named 'cep' is defined 	1643889021236
+USER	Verify Cep	START	1643889021236
+USER	Verify Cep	END	1643889021240
+ERROR	Verify Cep: Failed to build request: No attribute named 'cep' is defined 	1643889021286
+USER	Verify Cep	START	1643889021286
+USER	Verify Cep	END	1643889021288
+ERROR	Verify Cep: Failed to build request: No attribute named 'cep' is defined 	1643889021336
+USER	Verify Cep	START	1643889021335
+USER	Verify Cep	END	1643889021338
+ERROR	Verify Cep: Failed to build request: No attribute named 'cep' is defined 	1643889021386
+USER	Verify Cep	START	1643889021386
+USER	Verify Cep	END	1643889021389
+ERROR	Verify Cep: Failed to build request: No attribute named 'cep' is defined 	1643889021436
+USER	Verify Cep	END	1643889021439
+USER	Verify Cep	START	1643889021436
+ERROR	Verify Cep: Failed to build request: No attribute named 'cep' is defined 	1643889021487
+USER	Verify Cep	START	1643889021486
+USER	Verify Cep	END	1643889021488
+ERROR	Verify Cep: Failed to build request: No attribute named 'cep' is defined 	1643889021536
+USER	Verify Cep	START	1643889021536
+USER	Verify Cep	END	1643889021538
+ERROR	Verify Cep: Failed to build request: No attribute named 'cep' is defined 	1643889021586
+USER	Verify Cep	START	1643889021586
+USER	Verify Cep	END	1643889021586
+ERROR	Verify Cep: Failed to build request: No attribute named 'cep' is defined 	1643889021636
+USER	Verify Cep	START	1643889021636
+USER	Verify Cep	END	1643889021637
+ERROR	Verify Cep: Failed to build request: No attribute named 'cep' is defined 	1643889021686
+USER	Verify Cep	START	1643889021686
+USER	Verify Cep	END	1643889021687
+ERROR	Verify Cep: Failed to build request: No attribute named 'cep' is defined 	1643889021737
+USER	Verify Cep	START	1643889021736
+USER	Verify Cep	END	1643889021739
+ERROR	Verify Cep: Failed to build request: No attribute named 'cep' is defined 	1643889021787
+USER	Verify Cep	START	1643889021786
+USER	Verify Cep	END	1643889021789
+ERROR	Verify Cep: Failed to build request: No attribute named 'cep' is defined 	1643889021837
+USER	Verify Cep	START	1643889021837
+USER	Verify Cep	END	1643889021839
+ERROR	Verify Cep: Failed to build request: No attribute named 'cep' is defined 	1643889021886
+USER	Verify Cep	END	1643889021887
+USER	Verify Cep	START	1643889021886
+ERROR	Verify Cep: Failed to build request: No attribute named 'cep' is defined 	1643889021936
+USER	Verify Cep	START	1643889021936
+USER	Verify Cep	END	1643889021937
+ERROR	Verify Cep: Failed to build request: No attribute named 'cep' is defined 	1643889021986
+USER	Verify Cep	START	1643889021986
+USER	Verify Cep	END	1643889021987
+ERROR	Verify Cep: Failed to build request: No attribute named 'cep' is defined 	1643889022036
+USER	Verify Cep	START	1643889022036
+USER	Verify Cep	END	1643889022037
+ERROR	Verify Cep: Failed to build request: No attribute named 'cep' is defined 	1643889022086
+USER	Verify Cep	START	1643889022086
+USER	Verify Cep	END	1643889022087
+ERROR	Verify Cep: Failed to build request: No attribute named 'cep' is defined 	1643889022136
+USER	Verify Cep	START	1643889022136
+USER	Verify Cep	END	1643889022137
+ERROR	Verify Cep: Failed to build request: No attribute named 'cep' is defined 	1643889022186
+USER	Verify Cep	START	1643889022186
+USER	Verify Cep	END	1643889022187
+ERROR	Verify Cep: Failed to build request: No attribute named 'cep' is defined 	1643889022236
+USER	Verify Cep	START	1643889022236
+USER	Verify Cep	END	1643889022237
+ERROR	Verify Cep: Failed to build request: No attribute named 'cep' is defined 	1643889022286
+USER	Verify Cep	START	1643889022286
+USER	Verify Cep	END	1643889022287
+ERROR	Verify Cep: Failed to build request: No attribute named 'cep' is defined 	1643889022336
+USER	Verify Cep	START	1643889022336
+USER	Verify Cep	END	1643889022337
+ERROR	Verify Cep: Failed to build request: No attribute named 'cep' is defined 	1643889022386
+USER	Verify Cep	START	1643889022386
+USER	Verify Cep	END	1643889022387
+ERROR	Verify Cep: Failed to build request: No attribute named 'cep' is defined 	1643889022437
+USER	Verify Cep	START	1643889022437
+USER	Verify Cep	END	1643889022440
+ERROR	Verify Cep: Failed to build request: No attribute named 'cep' is defined 	1643889022487
+USER	Verify Cep	START	1643889022487
+USER	Verify Cep	END	1643889022490
+ERROR	Verify Cep: Failed to build request: No attribute named 'cep' is defined 	1643889022537
+USER	Verify Cep	START	1643889022537
+USER	Verify Cep	END	1643889022541
+ERROR	Verify Cep: Failed to build request: No attribute named 'cep' is defined 	1643889022587
+USER	Verify Cep	START	1643889022587
+USER	Verify Cep	END	1643889022589
+ERROR	Verify Cep: Failed to build request: No attribute named 'cep' is defined 	1643889022637
+USER	Verify Cep	START	1643889022637
+USER	Verify Cep	END	1643889022638

@@ -1,0 +1,4 @@
+RUN	person.verifyPerson	verifyperson	1642678159874	 	3.6.1
+USER	Verify Person	START	1642678161370
+REQUEST		Validate Person	1642678161404	1642678161575	KO	status.find.is(400), but actually found 404
+USER	Verify Person	END	1642678161602

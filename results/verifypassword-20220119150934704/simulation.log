@@ -1,0 +1,4 @@
+RUN	password.verifyPassword	verifypassword	1642604974704	 	3.6.1
+USER	Verify Password	START	1642604976181
+REQUEST		Validate Password	1642604976217	1642604976391	KO	status.find.is(400), but actually found 404
+USER	Verify Password	END	1642604976431

@@ -1,0 +1,10 @@
+{
+  "simulation": "email.verifyEmail",
+  "simulationId": "verifyemail",
+  "start": 1643886402822,
+  "description": "",
+  "scenarios": ["Verify Email"],
+  "assertions": [
+
+  ]
+}

@@ -1,0 +1,4 @@
+RUN	password.verifyPassword	verifypassword	1642713131208	 	3.6.1
+USER	Verify Password	START	1642713132738
+REQUEST		Validate Password	1642713132767	1642713133430	OK	 
+USER	Verify Password	END	1642713133478

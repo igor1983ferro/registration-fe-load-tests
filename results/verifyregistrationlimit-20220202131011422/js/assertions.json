@@ -1,0 +1,10 @@
+{
+  "simulation": "document.VerifyRegistrationLimit",
+  "simulationId": "verifyregistrationlimit",
+  "start": 1643807411422,
+  "description": "",
+  "scenarios": ["Verify Registration Limit"],
+  "assertions": [
+
+  ]
+}

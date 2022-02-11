@@ -1,0 +1,10 @@
+{
+  "simulation": "categories.VerifyCategories",
+  "simulationId": "verifycategories",
+  "start": 1643833331585,
+  "description": "",
+  "scenarios": ["Verify Categories"],
+  "assertions": [
+
+  ]
+}

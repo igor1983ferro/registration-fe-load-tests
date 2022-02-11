@@ -1,0 +1,10 @@
+{
+  "simulation": "password.verifyPassword",
+  "simulationId": "verifypassword",
+  "start": 1642605272316,
+  "description": "",
+  "scenarios": ["Verify Password"],
+  "assertions": [
+
+  ]
+}

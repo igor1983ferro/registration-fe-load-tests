@@ -1,0 +1,31 @@
+RUN	enterprise.verifyEnterprise	verifyenterprise	1643887138001	 	3.6.1
+USER	Verify Enterprise	START	1643887139419
+USER	Verify Enterprise	START	1643887139510
+USER	Verify Enterprise	START	1643887139611
+USER	Verify Enterprise	START	1643887139711
+USER	Verify Enterprise	START	1643887139811
+USER	Verify Enterprise	START	1643887139912
+USER	Verify Enterprise	START	1643887140013
+USER	Verify Enterprise	START	1643887140114
+USER	Verify Enterprise	START	1643887140216
+USER	Verify Enterprise	START	1643887140316
+REQUEST		Validate Enterprise	1643887139511	1643887143976	KO	status.find.is(400), but actually found 200
+USER	Verify Enterprise	END	1643887144010
+REQUEST		Validate Enterprise	1643887140115	1643887146906	KO	status.find.is(400), but actually found 200
+USER	Verify Enterprise	END	1643887146913
+REQUEST		Validate Enterprise	1643887140317	1643887146909	KO	status.find.is(400), but actually found 200
+REQUEST		Validate Enterprise	1643887139711	1643887146912	KO	status.find.is(400), but actually found 200
+USER	Verify Enterprise	END	1643887146917
+USER	Verify Enterprise	END	1643887146919
+REQUEST		Validate Enterprise	1643887139447	1643887147485	KO	status.find.is(400), but actually found 200
+REQUEST		Validate Enterprise	1643887139611	1643887147485	KO	status.find.is(400), but actually found 200
+USER	Verify Enterprise	END	1643887147491
+USER	Verify Enterprise	END	1643887147491
+REQUEST		Validate Enterprise	1643887139912	1643887147607	KO	status.find.is(400), but actually found 200
+USER	Verify Enterprise	END	1643887147613
+REQUEST		Validate Enterprise	1643887140014	1643887147996	KO	status.find.is(400), but actually found 200
+USER	Verify Enterprise	END	1643887148002
+REQUEST		Validate Enterprise	1643887140218	1643887148508	KO	status.find.is(400), but actually found 200
+USER	Verify Enterprise	END	1643887148515
+REQUEST		Validate Enterprise	1643887139812	1643887148714	KO	status.find.is(400), but actually found 200
+USER	Verify Enterprise	END	1643887148721

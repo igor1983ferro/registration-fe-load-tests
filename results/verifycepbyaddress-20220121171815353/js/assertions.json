@@ -1,0 +1,10 @@
+{
+  "simulation": "cep.verifyCepByAddress",
+  "simulationId": "verifycepbyaddress",
+  "start": 1642785495353,
+  "description": "",
+  "scenarios": ["Verify Cep"],
+  "assertions": [
+
+  ]
+}

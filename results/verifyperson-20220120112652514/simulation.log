@@ -1,0 +1,10 @@
+RUN	person.verifyPerson	verifyperson	1642678012514	 	3.6.1
+ERROR	Validate Person: Failed to build request: Resource {
+	"document":"093.346.947-00",
+	"full_name":"John Connor",
+	"birth_date":"01/01/1991",
+	"email":"helio_vendedor@porto.com",
+	"recaptchaToken":"fake_token",
+} not found 	1642678013916
+USER	Verify Person	END	1642678013923
+USER	Verify Person	START	1642678013901

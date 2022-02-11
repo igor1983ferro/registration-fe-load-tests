@@ -1,0 +1,10 @@
+{
+  "simulation": "states.VerifyStates",
+  "simulationId": "verifystates",
+  "start": 1643808357456,
+  "description": "",
+  "scenarios": ["Verify States"],
+  "assertions": [
+
+  ]
+}

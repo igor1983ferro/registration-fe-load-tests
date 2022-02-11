@@ -1,0 +1,31 @@
+RUN	document.VerifyRegistrationLimit	verifyregistrationlimit	1643807321622	 	3.6.1
+USER	Verify Registration Limit	START	1643807322987
+USER	Verify Registration Limit	START	1643807323077
+USER	Verify Registration Limit	START	1643807323178
+USER	Verify Registration Limit	START	1643807323279
+USER	Verify Registration Limit	START	1643807323380
+USER	Verify Registration Limit	START	1643807323480
+USER	Verify Registration Limit	START	1643807323580
+USER	Verify Registration Limit	START	1643807323681
+USER	Verify Registration Limit	START	1643807323781
+USER	Verify Registration Limit	START	1643807323882
+REQUEST		Verify Registration Limit	1643807323078	1643807324461	KO	status.find.is(200), but actually found 400
+REQUEST		Verify Registration Limit	1643807323009	1643807324461	KO	status.find.is(200), but actually found 400
+USER	Verify Registration Limit	END	1643807324507
+USER	Verify Registration Limit	END	1643807324507
+REQUEST		Verify Registration Limit	1643807323178	1643807324642	KO	status.find.is(200), but actually found 400
+USER	Verify Registration Limit	END	1643807324643
+REQUEST		Verify Registration Limit	1643807323279	1643807324683	KO	status.find.is(200), but actually found 400
+USER	Verify Registration Limit	END	1643807324685
+REQUEST		Verify Registration Limit	1643807323381	1643807324943	KO	status.find.is(200), but actually found 400
+USER	Verify Registration Limit	END	1643807324946
+REQUEST		Verify Registration Limit	1643807323481	1643807324946	KO	status.find.is(200), but actually found 400
+USER	Verify Registration Limit	END	1643807324947
+REQUEST		Verify Registration Limit	1643807323582	1643807324971	KO	status.find.is(200), but actually found 400
+USER	Verify Registration Limit	END	1643807324973
+REQUEST		Verify Registration Limit	1643807323782	1643807325251	KO	status.find.is(200), but actually found 400
+USER	Verify Registration Limit	END	1643807325254
+REQUEST		Verify Registration Limit	1643807323682	1643807325342	KO	status.find.is(200), but actually found 400
+USER	Verify Registration Limit	END	1643807325348
+REQUEST		Verify Registration Limit	1643807323884	1643807325358	KO	status.find.is(200), but actually found 400
+USER	Verify Registration Limit	END	1643807325364

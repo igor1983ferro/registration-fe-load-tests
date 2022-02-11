@@ -1,0 +1,31 @@
+RUN	password.verifyPassword	verifypassword	1642604535460	 	3.6.1
+USER	Verify Password	START	1642604536904
+USER	Verify Password	START	1642604536994
+USER	Verify Password	START	1642604537094
+USER	Verify Password	START	1642604537195
+USER	Verify Password	START	1642604537295
+REQUEST		Validate Password	1642604536943	1642604537277	KO	status.find.is(400), but actually found 404
+USER	Verify Password	END	1642604537323
+REQUEST		Validate Password	1642604536994	1642604537361	KO	status.find.is(400), but actually found 404
+USER	Verify Password	END	1642604537364
+REQUEST		Validate Password	1642604537095	1642604537365	KO	status.find.is(400), but actually found 404
+USER	Verify Password	END	1642604537367
+USER	Verify Password	START	1642604537395
+REQUEST		Validate Password	1642604537197	1642604537464	KO	status.find.is(400), but actually found 404
+USER	Verify Password	END	1642604537465
+REQUEST		Validate Password	1642604537296	1642604537466	KO	status.find.is(400), but actually found 404
+USER	Verify Password	END	1642604537468
+USER	Verify Password	START	1642604537495
+REQUEST		Validate Password	1642604537396	1642604537577	KO	status.find.is(400), but actually found 404
+USER	Verify Password	END	1642604537581
+USER	Verify Password	START	1642604537596
+REQUEST		Validate Password	1642604537496	1642604537641	KO	status.find.is(400), but actually found 404
+USER	Verify Password	END	1642604537643
+USER	Verify Password	START	1642604537696
+REQUEST		Validate Password	1642604537596	1642604537755	KO	status.find.is(400), but actually found 404
+USER	Verify Password	END	1642604537757
+USER	Verify Password	START	1642604537796
+REQUEST		Validate Password	1642604537697	1642604537832	KO	status.find.is(400), but actually found 404
+USER	Verify Password	END	1642604537835
+REQUEST		Validate Password	1642604537797	1642604537937	KO	status.find.is(400), but actually found 404
+USER	Verify Password	END	1642604537939

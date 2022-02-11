@@ -1,0 +1,10 @@
+{
+  "simulation": "enterprise.verifyEnterprise",
+  "simulationId": "verifyenterprise",
+  "start": 1642774130906,
+  "description": "",
+  "scenarios": ["Verify Enterprise"],
+  "assertions": [
+
+  ]
+}
